@@ -71,7 +71,7 @@ A Django-based login system that allows users to register, log in and perform CR
 
 ### DELETE METHOD: Testing URL below to see if i can delete objects using email! 
 ```bash
-    http://localhost:8000/auth/api/users/user2/NEWEMAIL@EMAIL.COM/
+    http://localhost:8000/auth/api/users/delete/NEWEMAIL@EMAIL.COM/
    ```
 <p align="center">
   <img width="100%" src="screenshots/Delete_user.JPG" />
