@@ -45,21 +45,34 @@ A Django-based login system that allows users to register, log in and perform CR
 <br>
 
 ## Postman API testing:
+### GET METHOD: Testing URL below to see if i can see all my objects and its details just like admin panel! 
+```bash
+    http://localhost:8000/api/users/
+   ```
 <p align="center">
   <img width="100%" src="screenshots/get_all_users.JPG" />
 </p>
-<br>
 
+### GET METHOD: Testing URL below to see if i can see specific details for a user! 
+```bash
+    http://localhost:8000/api/users/user2/
+   ```
 <p align="center">
   <img width="100%" src="screenshots/get_username.JPG" />
 </p>
-<br>
 
+### PUT METHOD: Testing URL below to see if i can update my existing object details using username! I am changing email from 'user4@gmail.com' to 'NEWEMAIL@EMAIL.COM'!
+```bash
+    http://localhost:8000/api/users/user4/
+   ```
 <p align="center">
   <img width="100%" src="screenshots/update_user_details.JPG" />
 </p>
-<br>
 
+### DELETE METHOD: Testing URL below to see if i can delete objects using email! 
+```bash
+    http://localhost:8000/api/users/user2/NEWEMAIL@EMAIL.COM/
+   ```
 <p align="center">
   <img width="100%" src="screenshots/Delete_user.JPG" />
 </p>
