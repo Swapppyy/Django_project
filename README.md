@@ -21,6 +21,7 @@ A Django-based login system that allows users to register, log in and perform CR
   <img width="100%" src="screenshots/login.JPG" />
 </p>
 <br>
+
 ### Your username and password is validated and upon incorrect details it will prompt you!
 <p align="center">
   <img width="100%" src="screenshots/login_fail.JPG" />
