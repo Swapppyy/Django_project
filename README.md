@@ -32,7 +32,7 @@ A Django-based login system that allows users to register, log in and perform CR
   <img width="100%" src="screenshots/signup.JPG" />
 </p>
 
-### After your details are validated upon login and you'll see success page!
+### After your details are validated upon login, you'll see success page!
 <p align="center">
   <img width="100%" src="screenshots/success.JPG" />
 </p>
