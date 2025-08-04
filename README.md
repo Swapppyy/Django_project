@@ -15,8 +15,6 @@ A Django-based login system that allows users to register, log in and perform CR
 
 ---
 
-## 📁 Screenshots:
-
 ## Login page:
 <p align="center">
   <img width="100%" src="screenshots/login.JPG" />
@@ -26,12 +24,14 @@ A Django-based login system that allows users to register, log in and perform CR
   <img width="100%" src="screenshots/login_fail.JPG" />
 </p>
 <br>
+
+## Signup page:
 <p align="center">
-  <img width="100%" src="3.PNG" />
+  <img width="100%" src="screenshots/signup.JPG" />
 </p>
 <br>
 <p align="center">
-  <img width="100%" src="4.PNG" />
+  <img width="100%" src="screenshots/success.JPG" />
 </p>
 <br>
 <p align="center">
