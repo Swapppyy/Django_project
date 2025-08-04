@@ -47,7 +47,7 @@ A Django-based login system that allows users to register, log in and perform CR
 ## Postman API testing:
 ### GET METHOD: Testing URL below to see if i can see all my objects and its details just like admin panel! 
 ```bash
-    http://localhost:8000/api/users/
+    http://localhost:8000/auth/api/users/
    ```
 <p align="center">
   <img width="100%" src="screenshots/get_all_users.JPG" />
@@ -55,7 +55,7 @@ A Django-based login system that allows users to register, log in and perform CR
 
 ### GET METHOD: Testing URL below to see if i can see specific details for a user! 
 ```bash
-    http://localhost:8000/api/users/user2/
+    http://localhost:8000/auth/api/users/user2/
    ```
 <p align="center">
   <img width="100%" src="screenshots/get_username.JPG" />
@@ -63,7 +63,7 @@ A Django-based login system that allows users to register, log in and perform CR
 
 ### PUT METHOD: Testing URL below to see if i can update my existing object details using username! I am changing email from 'user4@gmail.com' to 'NEWEMAIL@EMAIL.COM'!
 ```bash
-    http://localhost:8000/api/users/user4/
+    http://localhost:8000/auth/api/users/user4/
    ```
 <p align="center">
   <img width="100%" src="screenshots/update_user_details.JPG" />
@@ -71,7 +71,7 @@ A Django-based login system that allows users to register, log in and perform CR
 
 ### DELETE METHOD: Testing URL below to see if i can delete objects using email! 
 ```bash
-    http://localhost:8000/api/users/user2/NEWEMAIL@EMAIL.COM/
+    http://localhost:8000/auth/api/users/user2/NEWEMAIL@EMAIL.COM/
    ```
 <p align="center">
   <img width="100%" src="screenshots/Delete_user.JPG" />
