@@ -34,7 +34,36 @@ A Django-based login system that allows users to register, log in and perform CR
   <img width="100%" src="screenshots/success.JPG" />
 </p>
 <br>
+
+## Admin panel:
 <p align="center">
-  <img width="100%" src="5.PNG" />
+  <img width="100%" src="screenshots/admin_panel.JPG" />
 </p>
+<br>
+
+## Postman API testing:
+<p align="center">
+  <img width="100%" src="screenshots/get_all_users.JPG" />
+</p>
+<br>
+
+<p align="center">
+  <img width="100%" src="screenshots/get_username.JPG" />
+</p>
+<br>
+
+<p align="center">
+  <img width="100%" src="screenshots/update_user_details.JPG" />
+</p>
+<br>
+
+<p align="center">
+  <img width="100%" src="screenshots/Delete_user.JPG" />
+</p>
+<br>
+<p align="center">
+  <img width="100%" src="screenshots/del2.JPG" />
+</p>
+<br>
+
 
