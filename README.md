@@ -20,25 +20,25 @@ A Django-based login system that allows users to register, log in and perform CR
 <p align="center">
   <img width="100%" src="screenshots/login.JPG" />
 </p>
-<br>
 
 ### Your username and password is validated and upon incorrect details it will prompt you!
 <p align="center">
   <img width="100%" src="screenshots/login_fail.JPG" />
 </p>
-<br>
 
 ## Signup page:
+### On signup-landing page you have to enter all the details and it will redirect you to login page!
 <p align="center">
   <img width="100%" src="screenshots/signup.JPG" />
 </p>
-<br>
+
+### After your details are validated upon login and you'll see success page!
 <p align="center">
   <img width="100%" src="screenshots/success.JPG" />
 </p>
-<br>
 
 ## Admin panel:
+### This is where you can see all your objects that are created and all its details! You can also create groups and grant/revoke access for particular individuals and groups based on different scenarios!
 <p align="center">
   <img width="100%" src="screenshots/admin_panel.JPG" />
 </p>
